@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+main{
+    background-color: darkred;
+    padding: 20px;
+    margin: 100px;
+    border: solid white;
+    border-radius: 20px;
+    
+}
+h1{
+    text-align: center;
+}
+.inputy{
+    text-align: center;
+}
+.tlačítka{
+    text-align: center;
+    padding: 10px;
+}
+
+input{
+    margin: 5px 0;
+}
