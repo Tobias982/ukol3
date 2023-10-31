@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+main{
+    background-color: darkred;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    background-color: darkred;
+    padding: 16px;
+    align-items: center;
+    height: 150px
+}
+
+.logo img{
+    width: 300px;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+    
+}
+#login{
+    border: solid black;
+    background-color: white;
+    color: black;
+}
+
